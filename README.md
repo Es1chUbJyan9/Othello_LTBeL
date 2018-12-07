@@ -13,8 +13,8 @@
 - [Taiwanese Association for Artificial Intelligence 2018 Computer Game Tournaments](https://www.tcga.tw/taai2018/en/) - Othello10x10 Gold
 
 ## Requirements:
-bazel 0.15+
-tensorflow 1.0+
+- bazel 0.15+
+- tensorflow 1.0+
 
 # Installation
 1. Download the Bazel binary installer named bazel--installer-linux-x86_64.sh from [GitHub](https://github.com/bazelbuild/bazel/releases).
