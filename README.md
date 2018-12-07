@@ -16,7 +16,7 @@
 - bazel 0.15+
 - tensorflow 1.0+
 
-# Installation
+## Installation
 1. Download the Bazel binary installer named bazel--installer-linux-x86_64.sh from [GitHub](https://github.com/bazelbuild/bazel/releases).
 2. Run the Bazel installer as follows:
 ```
@@ -35,7 +35,7 @@ git clone https://github.com/Es1chUbJyan9/Othello_LTBeL.git
 mv -r Othello_LTBeL/ tensorflow/
 ```
 
-# Usage
+## Usage
 - Play game
 ```
 bash Run_Game.sh
