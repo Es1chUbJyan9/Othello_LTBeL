@@ -15,6 +15,8 @@
 ## Requirements:
 - bazel 0.15+
 - tensorflow 1.0+
+- CUDA
+- cuDNN
 
 ## Installation
 1. Download the Bazel binary installer named bazel--installer-linux-x86_64.sh from [GitHub](https://github.com/bazelbuild/bazel/releases).
