@@ -15,21 +15,13 @@
 ## Requirements:
 - bazel 0.15+
 - tensorflow 1.0+
+- CUDA
+- cuDNN
 
 ## Installation
-1. Download the Bazel binary installer named bazel--installer-linux-x86_64.sh from [GitHub](https://github.com/bazelbuild/bazel/releases).
-2. Run the Bazel installer as follows:
-```
-chmod +x bazel-<version>-installer-linux-x86_64.sh
-./bazel-<version>-installer-linux-x86_64.sh --user
-```
-3. Clone the TensorFlow source code
-```
-git clone https://github.com/tensorflow/tensorflow.git
-cd tensorflow
-./configure
-```
-4. Clone the Othello_LTBeL source code
+1. [Install bazel](https://docs.bazel.build/versions/master/install.html) 
+2. [Build tensorflow from source](https://www.tensorflow.org/install/source)
+3. Install Othello_LTBeL
 ```
 git clone https://github.com/Es1chUbJyan9/Othello_LTBeL.git
 mv -r Othello_LTBeL/ tensorflow/
@@ -61,3 +53,4 @@ bash Create_History.sh
 
 ## License
 [GNU General Public License v3.0](https://github.com/Es1chUbJyan9/Othello_LTBeL/blob/master/LICENSE)
+
