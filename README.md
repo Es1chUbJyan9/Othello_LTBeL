@@ -4,7 +4,7 @@
 - Lock-free multi-thread with virtual loss
 - MCTS-Minimax hybrids
 - Residual neural network evaluation based on Reinforcement learning
-- Lazy Large-batch inference
+- Lazy arge-batch inference
 - Using TensorFlow C++ API
 - Efficient implementation in C++
 
